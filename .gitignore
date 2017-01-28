@@ -68,3 +68,7 @@ target/
 digit_recognition/*.gz
 digit_recognition/*~
 *~
+
+# Pickle files
+.p
+
