@@ -65,4 +65,6 @@ target/
 .ipynb_checkpoints
 
 # Gzip compressed files
-.gz
+digit_recognition/*.gz
+digit_recognition/*~
+*~
