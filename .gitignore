@@ -70,5 +70,5 @@ digit_recognition/*~
 *~
 
 # Pickle files
-.p
+**/*.p
 
